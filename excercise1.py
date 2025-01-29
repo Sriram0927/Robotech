@@ -1,4 +1,4 @@
-# Write your code below this line
+# This is a simple program using print statement
 print("Mix 500g of Flour,10g Yeast and 300ml Water in a bowl.")
 print("Knead the dough for 10 minutes.")
 print("Add 3g of Salt.")
