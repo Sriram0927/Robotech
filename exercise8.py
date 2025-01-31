@@ -24,9 +24,6 @@ if height >= 120:
 
 
           print(f"The total bill is {bill}")
-
-
-
 else:
 
       print("You cannot ride the roller coaster")
